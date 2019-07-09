@@ -5,6 +5,11 @@ import Contact from './Contact';
 import Gallery from './Gallery';
 import {Link, Route} from 'react-router-dom'
 
+
+
+
+
+
 class App extends Component{
   render(){
     return(
